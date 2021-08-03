@@ -1,0 +1,7 @@
+name: KillStreaks
+main: Zinkil\KillStreaks\Loader
+api: 3.0.0
+version: 1.0.0
+author: Zinkil
+website: https://github.com/Zinkil-YT
+description: "Plugin That Calculate KillStreaks Of Players."
